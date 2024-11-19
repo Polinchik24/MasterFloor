@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\pages\\listviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\pages\\listviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\pages\\listviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\pages\\listviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\pages\\historypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\pages\\historypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|c:\\users\\user\\desktop\\masterfloor\\masterpol\\masterpol\\pages\\historypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\pages\\historypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\pages\\addeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\pages\\addeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\pages\\addeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\pages\\addeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\data\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\data\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\data\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\data\\model1.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\data\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\data\\model1.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\resources\\\u043C\u0430\u0441\u0442\u0435\u0440 \u043F\u043E\u043B.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\resources\\\u043C\u0430\u0441\u0442\u0435\u0440 \u043F\u043E\u043B.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\resources\\\u043C\u0430\u0441\u0442\u0435\u0440 \u043F\u043E\u043B.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\resources\\\u043C\u0430\u0441\u0442\u0435\u0440 \u043F\u043E\u043B.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\masterpol\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52F1A1BE-6E43-4F4A-8F18-74C9B2647AC6}|MasterPol\\MasterPol.csproj|solutionrelative:masterpol\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistoryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Pages\\HistoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "MasterPol\\Pages\\HistoryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Pages\\HistoryPage.xaml.cs",
+              "RelativeToolTip": "MasterPol\\Pages\\HistoryPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T11:31:52.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HistoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Pages\\HistoryPage.xaml",
+              "RelativeDocumentMoniker": "MasterPol\\Pages\\HistoryPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Pages\\HistoryPage.xaml",
+              "RelativeToolTip": "MasterPol\\Pages\\HistoryPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T11:30:41.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListViewPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Pages\\ListViewPage.xaml",
+              "RelativeDocumentMoniker": "MasterPol\\Pages\\ListViewPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Pages\\ListViewPage.xaml",
+              "RelativeToolTip": "MasterPol\\Pages\\ListViewPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T09:49:19.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListViewPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Pages\\ListViewPage.xaml.cs",
+              "RelativeDocumentMoniker": "MasterPol\\Pages\\ListViewPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Pages\\ListViewPage.xaml.cs",
+              "RelativeToolTip": "MasterPol\\Pages\\ListViewPage.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:49:19.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Data\\Model1.edmx",
+              "RelativeDocumentMoniker": "MasterPol\\Data\\Model1.edmx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Data\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "MasterPol\\Data\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-08T14:18:42.993Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Pages\\AddEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "MasterPol\\Pages\\AddEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Pages\\AddEditPage.xaml.cs",
+              "RelativeToolTip": "MasterPol\\Pages\\AddEditPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:15:22.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Pages\\AddEditPage.xaml",
+              "RelativeDocumentMoniker": "MasterPol\\Pages\\AddEditPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Pages\\AddEditPage.xaml",
+              "RelativeToolTip": "MasterPol\\Pages\\AddEditPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T10:32:18.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Data\\Model1.Designer.cs",
+              "RelativeDocumentMoniker": "MasterPol\\Data\\Model1.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Data\\Model1.Designer.cs",
+              "RelativeToolTip": "MasterPol\\Data\\Model1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:36:49.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Data\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "MasterPol\\Data\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Data\\Model1.Context.cs",
+              "RelativeToolTip": "MasterPol\\Data\\Model1.Context.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAhwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T14:19:13.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Model1.tt",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Data\\Model1.tt",
+              "RelativeDocumentMoniker": "MasterPol\\Data\\Model1.tt",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Data\\Model1.tt",
+              "RelativeToolTip": "MasterPol\\Data\\Model1.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-10T10:36:51.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model1.Context.tt",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Data\\Model1.Context.tt",
+              "RelativeDocumentMoniker": "MasterPol\\Data\\Model1.Context.tt",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Data\\Model1.Context.tt",
+              "RelativeToolTip": "MasterPol\\Data\\Model1.Context.tt",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-10T10:36:35.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\App.xaml",
+              "RelativeDocumentMoniker": "MasterPol\\App.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\App.xaml",
+              "RelativeToolTip": "MasterPol\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T09:49:18.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\App.config",
+              "RelativeDocumentMoniker": "MasterPol\\App.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\App.config",
+              "RelativeToolTip": "MasterPol\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T09:49:19.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MasterPol\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\MainWindow.xaml",
+              "RelativeToolTip": "MasterPol\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-28T09:49:19.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MasterPol\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MasterPol\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAyQR6p671vxoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:49:19.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "\u041C\u0430\u0441\u0442\u0435\u0440 \u043F\u043E\u043B.png",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Resources\\\u041C\u0430\u0441\u0442\u0435\u0440 \u043F\u043E\u043B.png",
+              "RelativeDocumentMoniker": "MasterPol\\Resources\\\u041C\u0430\u0441\u0442\u0435\u0440 \u043F\u043E\u043B.png",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Resources\\\u041C\u0430\u0441\u0442\u0435\u0440 \u043F\u043E\u043B.png",
+              "RelativeToolTip": "MasterPol\\Resources\\\u041C\u0430\u0441\u0442\u0435\u0440 \u043F\u043E\u043B.png",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKjSURBVDhPzZTNTxNBGMaf7vZ7t1CWGlBjRUXQYjWpgJZyMJoYJDaNF42JSU\u002BcTDx5MvGgR6/\u002BAYSLB42aEBITlHhDBFEULFjDR0zFAm3tx0Jpt\u002B06M7QFARObePCXvJvJM\u002B8877yzO4v/Hg19uN3u67IsN5NgYqWIoghBEIIjIyOPmKHL5eq32WxeEiyhUiKRCKLR6MD4\u002BLhXS4VYLAafzwe/388S/kQ\u002Bt44CCVUtgNcaSZhIjxr09fWht7eX5XDs\u002BZeszA1h6tUdTAzcRGjqMSmwVpzZpCLDWGgU8e9jSK18xvLsIPLKenFmk4oMdQYLeJ0AjjdCZ5RItzuX71CUvIr5SBaLcQWr2UJR3UCyd6C\u002B\u002BTLqjnahvqkbnI6c4TbKhqqqIptTEU7k8OR9Ai8CMmZXsqxAidoDHWjsuI2mc/cgHbkEjryY7WwxBL4uZ/DwdRQz4Qyef0jg2UQSgR\u002BZYsYGcqZAOlDwMZT\u002BrVgJ9tlQ3n1LI/wphQxJ8p\u002BtQTydZ4ueEmOKY6\u002BBmb2cljH0RSY3QoX3ZBXONJjZfImy4VIyhxpyZl0tItoaTKy6UafB2/k1tlM5IyJIOliIZlEr8LCaeAzNrLLOwkml6LKl5T0WLVoPmnDxuAiznkM1WeA\u002BZEZno4DllILB6VW8mUujxszjWqsVV09Xw0QKji6kEVzaPJayYRsx8zrJZ8Gx28ioIqa0pR6PhMWEApfdiO4WC07tN8Iu6XHrvA35gorQz112SH22mpWguz1BDB5cqcONdisO2/RMp6k2UYueTgkXjolMo5QNNeRO7gaV9byGtSoaOGjJuAQd7rPqIAnlV7Hx\u002B3I6nf0Oh8NLgomVEggEaAxMTk56maHH47mbTCbbU6kUS6gUi8VCY2x4ePh\u002BUfpXAL8AZgrxOQSmm4QAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-28T09:49:18.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\packages.config",
+              "RelativeDocumentMoniker": "MasterPol\\packages.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\packages.config",
+              "RelativeToolTip": "MasterPol\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKcSURBVDhPrVRPSJphGP/5aaUrAw2L7Wa2LgkWsXXcQCIopoghJAMv0aHbFh08jAW7Kju7o3gsdlilHRRJJLSBgoThIVC72D/7Y2pY2vO9fH5szFqO/eDh9Xue9/v5fr/n97z435AIKxYXF\u002Beq1erc1dWVkGmNjo4ODA0NwWw2F7u6uj7o9fozocQgEjocjpW\u002Bvr7PtEHItMbBwQGKxSJoX2lkZMTT29v7bXR0NCOUIRNWlMtlaLVaTE1NCZnW2NraYhGPx3sISxqNphyLxXwTExOMlGO72kSj0cD19TX8fj\u002BOj48/3d3dLZyfn6v52j8RNnF7e4twOIzDw8MF0vYrn2ubcGxsDPPz82KQ7qATKqn0\u002Bwmnp6dBOkAul6OzsxNSqRQSidgzEf39/aBmiNHd3c0kaIIRkg6vdDrdS54gkUggm83i5uYGHMe1JH0M3NHR0fN6vb60t7dncrlccDqd8Hq9jJTyjLQdcPTSTzrFd4PB4JmdnUWtVkMwGMTa2hrS6TRkMtFZTwLndrtfRCKRj6RFqVKpfOF1IZHZp\u002BdyOaZlO\u002BCi0ShCodDr1dXVN6lUSndycsIILy4umNnb1pBGh3c9dnZ23hYKBXsmk2H\u002B4rXjNeTJ2yHljEYj81I\u002Bn8f\u002B/j4janb38vISp6enD1qoFTi73Q6LxQJqClQqFQuaT9DNg83NTfh8Ptaop5JyCoXCxAeZ2UTPpsHBQcfy8vLZ\u002BPg4qEnY3t6Gx\u002BNhNwxP\u002BDcbydRq9Q/hN8PGxkYPmVpDw79AfzLMd5uaxiZiZmYGpVKJ2akJvnm/WusPkw0MDJRocdPAP6P1PX3ucDKZZN4kS\u002B2SroVAICCOm1KpZJcuPe\u002ByxGOgRq2sr683JicnG1artWGz2d4JpQcA3AOOGSI59OotsgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-10-28T09:49:18.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "\u041C\u0430\u0441\u0442\u0435\u0440 \u043F\u043E\u043B.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Resources\\\u041C\u0430\u0441\u0442\u0435\u0440 \u043F\u043E\u043B.ico",
+              "RelativeDocumentMoniker": "MasterPol\\Resources\\\u041C\u0430\u0441\u0442\u0435\u0440 \u043F\u043E\u043B.ico",
+              "ToolTip": "C:\\Users\\pmosin\\Desktop\\MasterPol\\MasterPol\\Resources\\\u041C\u0430\u0441\u0442\u0435\u0440 \u043F\u043E\u043B.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "RelativeToolTip": "..\\..\\..\\..\\pmosin\\Desktop\\MasterPol\\MasterPol\\Resources\\\u041C\u0430\u0441\u0442\u0435\u0440 \u043F\u043E\u043B.ico - Icon [256x256, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJDSURBVDhPrZS9a1pRGMYftaLGIgbNIImQqIsoRF0kJKMQyCBBHWIWV3ErXS3tvxBBSDMXC44uKmQQzJKsTikhxO9BqWgaP/Cr9z0cbcUrrSE/OJx73/ue5773fc49eGskfEYkEgn2\u002B/3g8/Mzj4gjl8thsVjg9XpbSqXyg91u/8kfMeaCoVDoi06n\u002Bywk8Ig4j4\u002BPaLVaEPJ\u002B2Wy2rxqN5srhcPzgj/GOz\u002Bh2u9jb28Px8TGPiJPNZtm4u7t7L/Bxa2ure3t7\u002B83tdjNRKctak\u002Bl0ipeXF6TTaTQajU9Cq875o9cJzhiNRsjlckgkEjzy1yfPIFNisRh8Ph8qlQqq1Sr8fv885nQ6sbOzw7OB6\u002BtrFItFfidSoUwmg9lshtAf6PV6bG9vL8ToBbVaDYIhbKjVakwmE75aRHBjYwNnZ2cwGo2wWq04ODhYiDWbTVb5Klb2cDweo1wu4/7\u002BnvWKjCAODw8RCATYtRiigiRAn5XJZJBMJvH09ITBYMBEU6kULi4ueOYyS6bQwnw\u002Bj5ubGxQKBfR6PcTjcRwdHbFBFe7v7/PsZZYqlEqlzIxOp4N2u80E6/U6Njc3oVAo1u8h/atUgclkwu7uLnOXzHC5XNBqta8zhXplMBjg8XhwenrKhKlyiv/LlKUeErT45OSECUgkEuY4bR26JlMeHh4QjUZ59iIrt41KpWIiNNOGppcQVCH9OauYV0iLyQg6Sf6HUqnEZjKO1s6Yn4fhcPh8OBwGSXQdhPOQjPx\u002BeXn554R4O4DfDaToy5Q1xR0AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-28T09:49:18.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Classes\\Manager.cs",
+              "RelativeDocumentMoniker": "MasterPol\\Classes\\Manager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\masterFloor\\MasterPol\\MasterPol\\Classes\\Manager.cs",
+              "RelativeToolTip": "MasterPol\\Classes\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7VNdSFNhGH7POds8znNy080/BIXldAbJcEkXiaChXRRCCIGK6E1CV/lDeZHl8EowxYtAIgxC7CIvRIe48kLDC5Vz41EmbhpDS51uudOmubNztr7vuILqoiDoyufie3nP9/B8z/tz4Bz/DCoRYc23xlTdqUpXl6rZ6NUoa6g0sJabFrasrkzjmnJ9xZxgMKhnKhi9\u002B6JbI8wJkc7OTuN28fYF\u002BbIMh/OHIuaQ\u002BMAQT8RWJM9JGolTkSpOikkcQRKcilINJigggzyI72gVPRgOhw2RWGRGDWouQkVaExQg8MF7\u002BW7nprNxZXfFTFM0FGcWA5PEABKFiBRxtJS2NGGxoYWhG/Nb85neI68PifLWXGu559BDH50cuUmCHN18vNmrOFz8uHjFG/Ca4/E41JhrwiU5JU\u002BtOVZ7gaHAnsVkvU5NTY3G4rHVbDZbMDJGIAhC0Gq0fJGxKMomsdjWLpLZwloK6l7UTda/rI/bHXZfKBR6hXqVlrj6CYEvgcm\u002Bt31xU69p6iB8kB0QAp\u002BaR5tx3pOgnPVww78BGpUGdFrdMsuyTTqd7rNymwByTqKHMvxhP30sHqMPQA8vDGf4Qj5KlEVkkGByn\u002BQqJhRBSZZwANRwJf6K7wMYeD9QPs6PQzQWvTayOOJsGGswcDscyDH5Lh4U5iqC\u002Bfp8OJVOgd/ncfobUlJSBOTqYe2lWr7CVIEfXjUbzQ\u002B6KruEQmMhoIE4UF\u002BfYa5iqbqoGlz7LnAfuM1tb9p6cM5oGEAlwl5oz02S5BiivQsEAwa0CYUkkG7nPeekP\u002Bg3Tq9Ps6jmOc8jzzLWUtZm6cNS94xrphEttzlNmwaWDAskq5NxaSBKoqP9evstzPsbKIIYs\u002BuzHWh1OiZWJ2BH2AGKpMCUboI8fd5s/\u002B3\u002BpgTtj/jxp9BAP0fBRkqkDfXEhiZro\u002BKUTY7K988Y5/g/APgG2Ocp0eSbumcAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-28T09:49:19.281Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
